@@ -5,6 +5,7 @@ Proyecto desarrollado para el curso de Buenas prácticas en ciencia computaciona
 ## Participantes
 
 - Ismael Majdoubi García.
+- Ana Isabel Gallardo Cordovilla.
 - 
 
 ## Descripción del dataset
