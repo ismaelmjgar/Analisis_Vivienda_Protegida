@@ -10,7 +10,7 @@ Proyecto desarrollado para el curso de Buenas prácticas en ciencia computaciona
 
 ## Descripción del dataset
 
-El conjunto de datos contiene información sobre viviendas protegidas con calificación definitiva en España durante el periodo 1991-2025, recopilada por la Fundación Ciudadana Civio a partir de estadísticas oficiales y solicitudes de acceso a información pública.
+El conjunto de datos contiene información sobre viviendas protegidas con calificación definitiva en España, recopilada por la Fundación Ciudadana Civio a partir de estadísticas oficiales y solicitudes de acceso a información pública. El CSV utilizado en este proyecto incluye años de calificación entre 1951 y 2025, con distinta cobertura temporal según territorio.
 
 **Fuente:** [Civio — Viviendas protegidas desde 1991 por comunidad autónoma](https://datos.civio.es/dataset/viviendas-protegidas-desde-1991-por-comunidad-autonoma/).
 
