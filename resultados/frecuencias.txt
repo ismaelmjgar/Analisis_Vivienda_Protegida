@@ -1,0 +1,86 @@
+
+ccaa
+ccaa
+Cataluna              4984
+Asturias               845
+Castilla_La_Mancha     760
+Andalucia              577
+Canarias               428
+
+provincia
+provincia
+Barcelona                   2255
+Tarragona                   1182
+Girona                       848
+Asturias (Principado de)     845
+Lleida                       699
+
+year
+year
+1995    681
+1996    678
+1994    590
+1997    587
+1998    452
+
+plan
+plan
+estatal            4698
+sin_informacion    3825
+autonomico         1246
+
+proteccion
+proteccion
+sin_informacion             2915
+general_y_concertado         673
+VPO de Promoción Pública     394
+VPO                          189
+otros                        157
+
+promotor
+promotor
+publico               3346
+privado               2993
+sin_informacion       1463
+Autopromotor          1262
+Sin ánimo de lucro     705
+
+tenencia
+tenencia
+propiedad                               3248
+alquiler_sin_opcion                     3032
+alquiler_con_opcion                     1639
+sin_informacion                         1502
+Venta o alquiler con opción a compra     306
+
+value
+value
+1     1786
+2      314
+12     305
+4      260
+8      259
+
+min_end_of_protection
+min_end_of_protection
+Permanente    1880
+2024           710
+2025           699
+2026           647
+2027           567
+
+max_end_of_protection
+max_end_of_protection
+Permanente    2427
+2025           655
+2026           611
+2027           536
+2024           516
+
+voluntary_release
+voluntary_release
+No se permite    4644
+Sin plazo        2909
+2013              401
+2014              282
+2015              235
